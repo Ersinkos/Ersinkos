@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🦱Hi! I'm Ersin 22 years old who is trying to be a game developer<br>📚4th Year Computer Engineering Student at Sakarya University<br>🏠Lives in İstanbul<br>👨‍🎓I'm a member of "Dijital Oyun Fabrikası" program that organized by Esenler Belediyesi and Üretken Akademi<br> 👨‍💻I'm learning more about Game Development and Game Design<br>🎮Favorite Game : The Legend of Zelda Breath of the Wild<br><br><br>
+👨‍🦱Hi! I'm Ersin 23 years old who is a game developer<br>📚4th Year Computer Engineering Student at Sakarya University<br>🏠Lives in İstanbul<br>👨‍🎓Currently working as a Game Developer in Rogueduck Interactive<br> 👨‍💻I'm learning more about Game Development and Game Design<br>🎮Favorite Game : Stardew Valley<br><br><br>
 
 
 ## 🌐 Socials:
