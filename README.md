@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🦱Hi! I'm Ersin 23 years old who is a game developer<br>📚4th Year Computer Engineering Student at Sakarya University<br>🏠Lives in İstanbul<br>👨‍🎓Currently working as a Game Developer in Rogueduck Interactive<br> 👨‍💻I'm learning more about Game Development and Game Design<br>🎮Favorite Game : Stardew Valley<br><br><br>
+👨‍🦱Hi! I'm Ersin 24 years old who is a game developer<br>📚 Graduate of the Computer Engineering program at Sakarya University<br>🏠Lives in İstanbul<br>👨‍🎓Currently working as a Game Developer in Rogueduck Interactive<br> 👨‍💻I'm learning more about Game Development and Game Design<br>🎮Favorite Game : Stardew Valley<br><br><br>
 
 
 ## 🌐 Socials:
